@@ -1,0 +1,74 @@
+
+p {
+  font-size: 1rem;
+  font-family: "Nanum Gothic Coding";
+  font-weight: normal;
+  margin-left: 150px;
+  margin-right: 150px;
+  color: black;
+}
+
+
+
+.main-body {
+  background-color: #EDE6DB;
+}
+
+.main {
+  background-color: #417D7A;
+  text-align:center;
+  top: 50px;
+  padding: 50px
+}
+
+.main-name {
+  margin: 50px auto 0 auto;
+  font-size: 2rem;
+  font-family: "Ubuntu";
+  color: #1A3C40;
+}
+
+.main-title{
+  font-family: "Quicksand";
+  font-weight: bolder;
+}
+
+.center-image{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 0;
+height: 10%;
+width: 10%;
+}
+
+
+.sub-title {
+  font-family: "Quicksand";
+  text-align: left;
+  margin-left:150px;
+  font-size: 1.5rem;
+}
+
+.middle-container {
+  position:relative;
+  top:80px;
+  text-align:center;
+}
+
+.align-left{
+  text-align:left;
+  margin-left:150px;
+  margin-right: 150px;
+}
+
+.list-font{
+  font-family: "Nanum Gothic Coding";
+}
+
+.bottom-container {
+  font-family: "Nanum Gothic Coding";
+  text-align: center;
+  margin-top: 100px;
+  position: relative;
+}
